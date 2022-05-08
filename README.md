@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently graduating from Fanshawe college with a **Post-graduate in Business management** from **Fanshawe college**
+- 🔭 I’m a graduate with a **Post-graduate in Business management** from **Fanshawe college**
 
 - 🎯 Working towards possessing a strong storytelling expertise that extends from developing business cases to presenting complex ideas
 
