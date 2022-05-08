@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 - 🔭 I’m currently graduating from Fanshawe college with a **Post-graduate in Business management** from **Fanshawe college**
 
