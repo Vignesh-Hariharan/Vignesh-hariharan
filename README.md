@@ -22,7 +22,7 @@ I am Vignesh, a dynamic Data Analyst and Business Management Strategist with ove
 ## 🛠️ Tools & Technologies
 
 ```mermaid
-graph TD;
+graph LR;
     A[Tools & Technologies] --> B[Data Visualization & Reporting];
     A --> C[ETL, Data Warehousing & Big Data];
     A --> D[Machine Learning & Analytics];
@@ -54,6 +54,7 @@ graph TD;
     F --> F2[Python];
     F --> F3[R];
     F --> F4[VBA];
+
 
 
 ```
