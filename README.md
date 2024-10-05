@@ -107,18 +107,9 @@ A PNG image visualizing the correlation between different stocks.
 
 All these outputs can be found in the `output/` directory of the project.
 
-## 🤝 Contributing
-
-We welcome contributions to StockSense! Please check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
 ## 📄 License
 
 StockSense is released under the [MIT License](LICENSE).
 
-## 📞 Support
 
-Encountering issues or have questions? Open an issue on GitHub or contact our support team at support@stocksense.ai.
-
----
-
-<p align="center">Made with ❤️ by the StockSense Team</p>
