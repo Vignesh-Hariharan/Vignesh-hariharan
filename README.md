@@ -43,6 +43,6 @@ graph TD
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub Portfolio](https://github.com/yourusername)
-- [Tableau Public Profile](https://public.tableau.com/profile/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/h-vignesh/)
+- [GitHub Portfolio](https://github.com/Vignesh-Hariharan)
+- [Tableau Public Profile](https://public.tableau.com/profile/vignesh.hariharan4351/)
