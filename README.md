@@ -1,115 +1,66 @@
-# 🚀 StockSense: Real-Time Market Analysis & Prediction Platform
+# Vignesh - Data Analyst & Business Management Professional 👨‍💼📊
 
-![StockSense Banner](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/images/stocksense_banner.png)
+## 👋 Hello, World!
 
-## 🌟 Project Overview
+I am Vignesh, a dynamic Data Analyst and Business Management Strategist with over 6 years of progressive experience, specializing in transforming raw data into actionable intelligence that fuels business growth. Throughout my career at industry giants such as Amazon and StackAdapt, I have refined my ability to dissect complex datasets, craft strategic insights, and deploy data-driven solutions that directly influence organizational success. My expertise lies at the intersection of analytical rigor and business acumen, enabling me to bridge the gap between data analysis and impactful decision-making.
 
-StockSense is a cutting-edge platform that leverages real-time data and artificial intelligence to provide unparalleled insights into stock market trends and predictions. By combining advanced web scraping techniques, robust ETL processes, cloud-based data warehousing, state-of-the-art machine learning models, and interactive data visualizations, StockSense empowers investors to make informed decisions with confidence.
+## 🚀 Current Focus
 
-### 🔑 Key Features
+- **Programmatic Analyst at StackAdapt:** Delivering customized campaign performance reports and actionable insights for 40+ brands across diverse industries.
+- **Machine Learning and Advanced Analytics:** Hands-on experience with Python (Pandas, Matplotlib, BeautifulSoup, Selenium) and R for data analysis, and leveraging SQL and tools like Snowflake, Databricks, and Redshift to manage and process large datasets.
 
-- **Real-time Data Scraping**: Stay ahead of the market with up-to-the-minute stock information
-- **Robust ETL Pipeline**: Efficiently process and load data into a scalable cloud data warehouse
-- **Intelligent Storage**: Leverage the power of Snowflake or Redshift for efficient data management
-- **Predictive Analytics**: Utilize LSTM neural networks to forecast market trends
-- **Interactive Visualizations**: Gain deep insights through stunning, interactive data representations
+## 💼 Skills & Expertise
 
-## 🛠 Technology Stack
+| Area | Skills |
+|------|--------|
+| Data Analysis & BI | SQL (MySQL, Redshift, Snowflake), Tableau, Power BI, Google Data Studio |
+| Programming | Python, R, VBA |
+| Campaign Optimization | Advanced queries, Machine learning for audience segmentation |
+| Project Management | Team leadership, Process automation, Operational efficiency |
 
-StockSense harnesses a powerful combination of technologies:
-
-- **Python Ecosystem**:
-  - 🕷 **Selenium & BeautifulSoup**: For nimble web scraping
-  - 🐼 **Pandas**: Data manipulation and analysis
-  - 🧠 **TensorFlow & scikit-learn**: Powering our predictive AI models
-  - 🔗 **SQLAlchemy**: Seamless database interactions
-
-- **Data Warehousing**:
-  - ❄ **Snowflake** or 🚀 **Redshift**: Scalable, cloud-native storage solutions
-
-- **Visualization**:
-  - 📊 **Plotly**: Create interactive HTML-based charts
-  - 📈 **Matplotlib**: Generate static visualizations
-
-## 📂 Project Structure
+## 🛠️ Tools & Technologies
 
 ```
-stock_market_analysis/
-├── data/
-├── src/
-│   ├── scraper.py
-│   ├── etl_pipeline.py
-│   ├── model.py
-│   └── visualization.py
-├── output/
-│   ├── AAPL_candlestick.html
-│   ├── MSFT_candlestick.html
-│   ├── GOOGL_candlestick.html
-│   ├── AAPL_advanced_technical.html
-│   ├── MSFT_advanced_technical.html
-│   ├── GOOGL_advanced_technical.html
-│   ├── AAPL_summary_statistics.csv
-│   ├── MSFT_summary_statistics.csv
-│   ├── GOOGL_summary_statistics.csv
-│   ├── AAPL_seasonal_decomposition.png
-│   ├── MSFT_seasonal_decomposition.png
-│   ├── GOOGL_seasonal_decomposition.png
-│   └── correlation_heatmap.png
-├── README.md
-├── requirements.txt
-└── .gitignore
+🌟 Tools & Technologies
+│
+├─📊 Data Visualization & Reporting
+│ ├─📈 Tableau
+│ ├─📉 Power BI
+│ ├─📊 Google Data Studio
+│ └─📑 Advanced Excel
+│
+├─💾 ETL, Data Warehousing & Big Data
+│ ├─❄️ Snowflake
+│ ├─🚀 Redshift
+│ ├─🐬 MySQL
+│ └─💥 Databricks
+│
+├─🧠 Machine Learning & Analytics
+│ ├─🔬 scikit-learn
+│ ├─🤖 TensorFlow
+│ ├─🐼 Pandas
+│ └─📊 R Programming
+│
+├─🤖 Automation & Scripting
+│ ├─🐍 Python
+│ │ ├─🌐 Selenium
+│ │ ├─🍲 BeautifulSoup
+│ │ └─📊 Matplotlib
+│ └─📘 VBA
+│
+└─💻 Programming Languages & Frameworks
+  ├─🗃️ SQL
+  ├─🐍 Python
+  ├─📊 R
+  └─📘 VBA
 ```
 
-## 🚀 Setup Instructions
+## 🔗 Connect with Me
 
-(Setup instructions remain the same as in the original README)
+- [LinkedIn](https://www.linkedin.com/in/h-vignesh/)
+- [GitHub Portfolio](https://github.com/Vignesh-Hariharan)
+- [Tableau Public Profile](https://public.tableau.com/profile/vignesh.hariharan4351/)
 
-## 📊 Data Flow
+---
 
-1. **Web Scraping**: Real-time stock data is scraped from financial websites using Selenium and BeautifulSoup.
-2. **Data Storage**: Scraped data is initially saved as CSV files in the `data/` directory.
-3. **ETL Process**: Data is extracted from CSV, transformed, and loaded into Snowflake/Redshift using SQLAlchemy.
-4. **Machine Learning**: Historical data is used to train an LSTM model for price predictions.
-5. **Visualization**: Various visualizations are generated and saved in the `output/` directory.
-
-## 🧠 Machine Learning Model
-
-StockSense uses a Long Short-Term Memory (LSTM) neural network to predict future stock prices based on historical trends. The model is implemented using TensorFlow and trained on scaled historical price data.
-
-![LSTM Model Architecture](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/images/lstm_architecture.png)
-
-## 📈 Outputs and Visualizations
-
-StockSense generates a variety of outputs to provide comprehensive insights:
-
-### 1. Candlestick Charts
-Interactive HTML charts for AAPL, MSFT, and GOOGL stocks.
-
-![Sample Candlestick Chart](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/images/sample_candlestick.png)
-
-### 2. Advanced Technical Indicator Plots
-HTML-based interactive charts with various technical indicators.
-
-![Sample Technical Indicators](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/images/sample_technical_indicators.png)
-
-### 3. Summary Statistics
-CSV files containing key statistical measures for each stock.
-
-### 4. Seasonal Decomposition
-PNG images showing trend, seasonal, and residual components of each stock's time series.
-
-![Sample Seasonal Decomposition](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/images/sample_seasonal_decomposition.png)
-
-### 5. Correlation Heatmap
-A PNG image visualizing the correlation between different stocks.
-
-![Correlation Heatmap](https://raw.githubusercontent.com/Vignesh-Hariharan/stocksense/main/output/correlation_heatmap.png)
-
-All these outputs can be found in the `output/` directory of the project.
-
-
-## 📄 License
-
-StockSense is released under the [MIT License](LICENSE).
-
-
+⭐️ From [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
