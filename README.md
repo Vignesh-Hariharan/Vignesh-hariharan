@@ -19,21 +19,34 @@ I am Vignesh, a dynamic Data Analyst and Business Management Strategist with ove
 | Project Management | Team leadership, Process automation, Operational efficiency |
 
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
-```mermaid
-graph TD
-    A[Tools & Technologies] --> B[Data]
-    A --> C[Programming]
-    A --> D[Automation]
-    B --> B1[Visualization]
-    B --> B2[Warehousing]
-    B --> B3[Analytics]
-    C --> C1[Languages]
-    C --> C2[Frameworks]
-    
-    classDef highlight fill:#f9f,stroke:#333,stroke-width:4px;
-    class B,C,D highlight;
+<table>
+<tr>
+  <th>Category</th>
+  <th>Tools</th>
+</tr>
+<tr>
+  <td>Data Visualization & Reporting</td>
+  <td>Tableau, Power BI, Google Data Studio, Advanced Excel</td>
+</tr>
+<tr>
+  <td>ETL & Data Warehousing</td>
+  <td>Snowflake, Redshift, MySQL, Databricks</td>
+</tr>
+<tr>
+  <td>Machine Learning & Analytics</td>
+  <td>scikit-learn, TensorFlow, Pandas, R Programming</td>
+</tr>
+<tr>
+  <td>Automation & Scripting</td>
+  <td>Python, VBA, Selenium, BeautifulSoup, Matplotlib</td>
+</tr>
+<tr>
+  <td>Programming Languages</td>
+  <td>SQL, Python, R, VBA</td>
+</tr>
+</table>
 
 
 ```
