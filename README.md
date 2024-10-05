@@ -22,39 +22,18 @@ I am Vignesh, a dynamic Data Analyst and Business Management Strategist with ove
 ## 🛠️ Tools & Technologies
 
 ```mermaid
-graph LR;
-    A[Tools & Technologies] --> B[Data Visualization & Reporting];
-    A --> C[ETL, Data Warehousing & Big Data];
-    A --> D[Machine Learning & Analytics];
-    A --> E[Automation & Scripting];
-    A --> F[Programming Languages & Frameworks];
+graph TD
+    A[Tools & Technologies] --> B[Data]
+    A --> C[Programming]
+    A --> D[Automation]
+    B --> B1[Visualization]
+    B --> B2[Warehousing]
+    B --> B3[Analytics]
+    C --> C1[Languages]
+    C --> C2[Frameworks]
     
-    B --> B1[Tableau];
-    B --> B2[Power BI];
-    B --> B3[Google Data Studio];
-    B --> B4[Advanced Excel];
-
-    C --> C1[Snowflake];
-    C --> C2[Redshift];
-    C --> C3[MySQL];
-    C --> C4[Databricks];
-    
-    D --> D1[scikit-learn];
-    D --> D2[TensorFlow];
-    D --> D3[Pandas];
-    D --> D4[R Programming];
-    
-    E --> E1[Python];
-    E --> E2[VBA];
-    E1 --> E1a[Selenium];
-    E1 --> E1b[BeautifulSoup];
-    E1 --> E1c[Matplotlib];
-    
-    F --> F1[SQL];
-    F --> F2[Python];
-    F --> F3[R];
-    F --> F4[VBA];
-
+    classDef highlight fill:#f9f,stroke:#333,stroke-width:4px;
+    class B,C,D highlight;
 
 
 ```
