@@ -18,36 +18,6 @@ I'm Vignesh, a seasoned Data Analyst and Business Management Professional with o
 | Campaign Optimization | Advanced queries, Machine learning for audience segmentation |
 | Project Management | Team leadership, Process automation, Operational efficiency |
 
-## 🎯 Key Projects
-
-1. **GUI Application Development**
-   - Built a Python-based GUI for automating backend script execution
-   - Improved efficiency for a team of 30 agents
-
-2. **Programmatic Advertising Insights**
-   - Conducted competitor analysis using tools like Statista and Policy Map
-   - Developed strategic reports that helped win 6 new clients
-
-3. **Automation at Amazon**
-   - Automated 70% of manual tasks related to catalog management
-   - Categorized 40,000+ products, optimizing resource allocation
-   - Led to significant operational improvements
-
-## 🎓 Education & Certifications
-
-- **Post-Graduate Certificate in Business Management**
-  - Fanshawe College
-  - Dean's Honor Roll recipient
-  - RBC Business Management Award winner
-
-- **Bachelor of Engineering in Electrical and Electronics**
-  - Vel Tech High Tech Engineering College
-
-### Certifications
-- Generative AI (Microsoft & LinkedIn)
-- Data Analysis Using Python (IBM)
-- Business Analytics Nanodegree (Udacity)
-- SQL (Intermediate) Certification
 
 ## 🛠️ Tools & Technologies
 
