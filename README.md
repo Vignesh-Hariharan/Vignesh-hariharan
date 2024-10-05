@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-I'm Vignesh, a seasoned Data Analyst and Business Management Professional with over 6 years of experience in data analysis, reporting, and project management. My career journey includes roles at industry leaders like Amazon and StackAdapt, where I've honed my skills in analyzing large datasets, generating strategic insights, and leveraging data to drive business outcomes.
+I am Vignesh, a dynamic Data Analyst and Business Management Strategist with over 6 years of progressive experience, specializing in transforming raw data into actionable intelligence that fuels business growth. Throughout my career at industry giants such as Amazon and StackAdapt, I have refined my ability to dissect complex datasets, craft strategic insights, and deploy data-driven solutions that directly influence organizational success. My expertise lies at the intersection of analytical rigor and business acumen, enabling me to bridge the gap between data analysis and impactful decision-making
 
 ## 🚀 Current Focus
 
