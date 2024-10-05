@@ -19,35 +19,38 @@ I am Vignesh, a dynamic Data Analyst and Business Management Strategist with ove
 | Project Management | Team leadership, Process automation, Operational efficiency |
 
 
-### 🛠️ Tools & Technologies
-
-<table>
-<tr>
-  <th>Category</th>
-  <th>Tools</th>
-</tr>
-<tr>
-  <td>Data Visualization & Reporting</td>
-  <td>Tableau, Power BI, Google Data Studio, Advanced Excel</td>
-</tr>
-<tr>
-  <td>ETL & Data Warehousing</td>
-  <td>Snowflake, Redshift, MySQL, Databricks</td>
-</tr>
-<tr>
-  <td>Machine Learning & Analytics</td>
-  <td>scikit-learn, TensorFlow, Pandas, R Programming</td>
-</tr>
-<tr>
-  <td>Automation & Scripting</td>
-  <td>Python, VBA, Selenium, BeautifulSoup, Matplotlib</td>
-</tr>
-<tr>
-  <td>Programming Languages</td>
-  <td>SQL, Python, R, VBA</td>
-</tr>
-</table>
-
+🌟 Tools & Technologies
+│
+├─📊 Data Visualization & Reporting
+│ ├─📈 Tableau
+│ ├─📉 Power BI
+│ ├─📊 Google Data Studio
+│ └─📑 Advanced Excel
+│
+├─💾 ETL, Data Warehousing & Big Data
+│ ├─❄️ Snowflake
+│ ├─🚀 Redshift
+│ ├─🐬 MySQL
+│ └─💥 Databricks
+│
+├─🧠 Machine Learning & Analytics
+│ ├─🔬 scikit-learn
+│ ├─🤖 TensorFlow
+│ ├─🐼 Pandas
+│ └─📊 R Programming
+│
+├─🤖 Automation & Scripting
+│ ├─🐍 Python
+│ │ ├─🌐 Selenium
+│ │ ├─🍲 BeautifulSoup
+│ │ └─📊 Matplotlib
+│ └─📘 VBA
+│
+└─💻 Programming Languages & Frameworks
+  ├─🗃️ SQL
+  ├─🐍 Python
+  ├─📊 R
+  └─📘 VBA
 
 ```
 
