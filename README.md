@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-I am Vignesh, a dynamic Data Analyst and Business Management Strategist with over 6 years of progressive experience, specializing in transforming raw data into actionable intelligence that fuels business growth. Throughout my career at industry giants such as Amazon and StackAdapt, I have refined my ability to dissect complex datasets, craft strategic insights, and deploy data-driven solutions that directly influence organizational success. My expertise lies at the intersection of analytical rigor and business acumen, enabling me to bridge the gap between data analysis and impactful decision-making.
+I am Vignesh, a dynamic Data Architecture Analyst and Strategist with over 6 years of progressive experience, specializing in transforming raw data into actionable intelligence that fuels business growth. Throughout my career at industry giants such as Amazon and StackAdapt, I have refined my ability to dissect complex datasets, craft strategic insights, and deploy data-driven solutions that directly influence organizational success. My expertise lies at the intersection of analytical rigor and business acumen, enabling me to bridge the gap between data analysis and impactful decision-making.
 
 ## 🚀 Current Focus
 
