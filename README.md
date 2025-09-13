@@ -1,4 +1,4 @@
-# Vignesh - Data Analyst & Business Management Professional 👨‍💼📊
+# Vignesh - Data Architecture & Strategic Analytics Professional 👨‍💼📊
 
 ## 👋 Hello, World!
 
