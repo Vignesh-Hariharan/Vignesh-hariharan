@@ -33,7 +33,7 @@ Analytics Engineer with **8+ years** building production data pipelines, analyti
 - Built Python GUI tools for self-service data access
 - Collaborated on Snowflake Cortex ML churn prediction deployment 
 
-**Programmatic Analyst (Technical)** @ StackAdapt *(Jun 2022 - Dec 2024)*
+**Programmatic Analyst (Technical)** @ StackAdapt 
 
 - Delivered customized performance reports 
 - Built automated reporting pipelines with Python, R, and SQL
