@@ -111,6 +111,6 @@ primary_stack = {
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
-⭐️ From [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
+⭐️ [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
 
 </div>
