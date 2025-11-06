@@ -28,15 +28,15 @@ Analytics Engineer with **8+ years** building production data pipelines, analyti
 
 **Data Architecture Analyst** @ StackAdapt *(Jan 2025 - Oct 2025)*
 
-- Engineered production ELT pipelines (Asana → Snowflake → Tableau/ThoughtSpot)
-- Automated 80+ manual data processes weekly using Kestra/Nomad orchestration
-- Built Python GUI tools adopted by 35+ team members for self-service data access
-- Collaborated on Snowflake Cortex ML churn prediction deployment (F1=0.78)
+- Engineered production ELT pipelines 
+- Automated manual data processes weekly using Kestra/Nomad orchestration
+- Built Python GUI tools for self-service data access
+
 
 **Programmatic Analyst (Technical)** @ StackAdapt *(Jun 2022 - Dec 2024)*
 
-- Delivered customized performance reports for 40+ brands
-- Built automated reporting pipelines with Python, R, and SQL
+- Delivered customized performance reports for brands
+- Built automated reporting pipelines
 - Created Tableau dashboard templates and visualization frameworks
 
 ---
