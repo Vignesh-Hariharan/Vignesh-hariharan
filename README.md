@@ -41,7 +41,7 @@ Analytics Engineer with **8+ years** building production data pipelines, analyti
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Portfolio Projects
 
 ### 1️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
 <img align="right" width="100" src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif"/>
