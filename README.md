@@ -52,7 +52,7 @@ Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. 
 
 `Snowflake` `dbt` `Python` `SQL` `ML Operations`
 
-### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/vignesh_portfolio)
+### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/Projects/tree/63e4c94e00cd533f1c25c7eb873b689c490b3b8f/attribution-analytics)
 <img align="right" width="100" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif"/>
 
 End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels. Processed 200+ conversions from GA4 + synthetic ad data.
@@ -60,6 +60,17 @@ End-to-end attribution pipeline analyzing how different models (first-touch, las
 **Insight:** Last-click attribution significantly undervalues prospecting campaigns
 
 `Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
+
+
+### 3️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
+<img align="right" width="100" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/>
+
+Built an event-driven analytics pipeline integrating Salesforce REST API, Snowflake, and Kestra for automated opportunity tracking.
+Processed real-time sales data to generate insights on pipeline health, rep performance, and revenue forecasts.
+Automated delivery of AI-generated reports and visualizations through Slack and Asana API.
+
+`Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
+
 
 ---
 
@@ -72,7 +83,8 @@ primary_stack = {
     "Transformation": ["dbt", "SQL", "Python"],
     "Orchestration": ["Kestra", "Nomad", "Airflow-concepts"],
     "Visualization": ["Tableau", "ThoughtSpot", "Power BI"],
-    "Languages": ["SQL", "Python", "R"]
+    "Languages": ["SQL", "Python", "R"],
+    "AI_Integration": ["Gemini", "Snowflake Cortex", "LLM Workflows"]
 }
 ```
 
