@@ -43,17 +43,17 @@ Analytics Engineer with **8+ years** building production data pipelines, analyti
 
 ## 🚀 Featured Portfolio Projects
 
-### 1️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
-<img align="right" width="100" src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif"/>
+### 1️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2891/2891415.png"/>
 
-Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
+Built an event-driven analytics pipeline integrating Salesforce REST API, Snowflake, and Kestra for automated opportunity tracking.
+Processed real-time sales data to generate insights on pipeline health, rep performance, and revenue forecasts.
+Automated delivery of AI-generated reports and visualizations through Slack and Asana API.
 
-**Key Finding:** Simpler models (6 features) outperformed complex ones (18 features)
-
-`Snowflake` `dbt` `Python` `SQL` `ML Operations`
+`Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
 
 ### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/Projects/tree/63e4c94e00cd533f1c25c7eb873b689c490b3b8f/attribution-analytics)
-<img align="right" width="100" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif"/>
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
 
 End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels. Processed 200+ conversions from GA4 + synthetic ad data.
 
@@ -62,14 +62,14 @@ End-to-end attribution pipeline analyzing how different models (first-touch, las
 `Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
 
 
-### 3️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
-<img align="right" width="100" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/>
+### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
 
-Built an event-driven analytics pipeline integrating Salesforce REST API, Snowflake, and Kestra for automated opportunity tracking.
-Processed real-time sales data to generate insights on pipeline health, rep performance, and revenue forecasts.
-Automated delivery of AI-generated reports and visualizations through Slack and Asana API.
+Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
 
-`Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
+**Key Finding:** Simpler models (6 features) outperformed complex ones (18 features)
+
+`Snowflake` `dbt` `Python` `SQL` `ML Operations`
 
 
 ---
