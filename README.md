@@ -1,7 +1,9 @@
 # Vignesh Hariharan | Analytics Engineer & Data Architecture 🚀
 
 <div align="center">
-  
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Vignesh%20Hariharan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Analytics%20Engineer%20%26%20Data%20Architecture&descAlignY=51&descSize=20&fontColor=ffffff)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-vignesh/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vignesh.hariharan4351/vizzes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vignesh-Hariharan)
@@ -10,67 +12,67 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** building production data pipelines, analytics infrastructure, and automation systems. Most recently at **StackAdapt** (Toronto), where I architected end-to-end data solutions from ingestion to insights.
+<img align="right" width="300" src="https://cdn-icons-png.flaticon.com/512/2083/2083256.png"/>
+
+[cite_start]Analytics Engineer with **8+ years** of experience [cite: 4] building production data pipelines, analytics infrastructure, and automation systems. [cite_start]Most recently at **StackAdapt** (Toronto), where I architected end-to-end data solutions from ingestion to insights[cite: 24].
 
 **What I do:**
 - 🔧 Build data pipelines that process millions of rows daily
-- 📊 Transform raw data into actionable insights using dbt + Snowflake
-- 🤖 Automate workflows that eliminate manual processes
-- 📈 Create self-service analytics tools for cross-functional teams
+- [cite_start]📊 Transform raw data into actionable insights using dbt + Snowflake [cite: 15]
+- [cite_start]🤖 Automate workflows that eliminate manual processes [cite: 6]
+- [cite_start]📈 Create self-service analytics tools for cross-functional teams [cite: 48]
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
+<br clear="right"/>
 
 ---
 
 ## 💼 Recent Experience
 
-**Data Architecture Analyst** @ StackAdapt 
+[cite_start]**Data Architecture Analyst** @ StackAdapt [cite: 24]
+- [cite_start]Engineered production ELT pipelines on Snowflake integrating REST APIs and event streams[cite: 33].
+- [cite_start]Automated 80+ manual weekly jobs using Kestra/Nomad orchestration[cite: 39].
+- [cite_start]Built Python GUI tools for self-service data access adopted by 35+ members[cite: 48].
+- [cite_start]Collaborated on Snowflake Cortex ML churn prediction deployment (XGBoost)[cite: 28].
 
-- Engineered production ELT pipelines
-- Automated manual data processes weekly using Kestra/Nomad orchestration
-- Built Python GUI tools for self-service data access
-- Collaborated on Snowflake Cortex ML churn prediction deployment 
-
-**Programmatic Analyst (Technical)** @ StackAdapt 
-
-- Delivered customized performance reports 
-- Built automated reporting pipelines with Python, R, and SQL
-- Created Tableau dashboard templates and visualization frameworks
+[cite_start]**Programmatic Analyst (Technical)** @ StackAdapt [cite: 51]
+- [cite_start]Delivered customized performance reports for 40+ brands providing strategic insights[cite: 55].
+- [cite_start]Built automated reporting pipelines with Python, R, and SQL[cite: 54].
+- [cite_start]Created Tableau dashboard templates and visualization frameworks[cite: 56].
 
 ---
 
 ## 🚀 Featured Portfolio Projects
 
-### 1️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
-<img align="right" width="100" src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif"/>
+### 1️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2891/2891415.png"/>
 
-Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
+[cite_start]Engineered an event-driven analytics pipeline integrating Salesforce REST APIs, Snowflake, and Kestra[cite: 85]. [cite_start]Crucially, it uses **Gemini 2.0 Multimodal AI** to "view" generated charts and produce strategic advice, automating pipeline health checks and forecasting[cite: 85].
 
-**Key Finding:** Simpler models (6 features) outperformed complex ones (18 features)
+`Kestra` `Python` `Salesforce` `Snowflake` `Gemini AI` `Slack`
 
-`Snowflake` `dbt` `Python` `SQL` `ML Operations`
+<br/>
 
 ### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/Projects/tree/63e4c94e00cd533f1c25c7eb873b689c490b3b8f/attribution-analytics)
-<img align="right" width="100" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif"/>
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
 
-End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels. Processed 200+ conversions from GA4 + synthetic ad data.
+[cite_start]End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels[cite: 88, 89]. [cite_start]Processed 200+ conversions from GA4 + synthetic ad data[cite: 89].
 
-**Insight:** Last-click attribution significantly undervalues prospecting campaigns
+[cite_start]**Insight:** Last-click attribution significantly undervalues prospecting campaigns (by +2-190%)[cite: 90].
 
 `Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
 
+<br/>
 
-### 3️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
-<img align="right" width="100" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/>
+### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
+<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
 
-Built an event-driven analytics pipeline integrating Salesforce REST API, Snowflake, and Kestra for automated opportunity tracking.
-Processed real-time sales data to generate insights on pipeline health, rep performance, and revenue forecasts.
-Automated delivery of AI-generated reports and visualizations through Slack and Asana API.
+[cite_start]Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**[cite: 94]. [cite_start]Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML[cite: 95].
 
-`Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
+[cite_start]**Key Finding:** A simpler model with 6 features outperformed the complex 18-feature model[cite: 96].
 
+`Snowflake` `dbt` `Python` `SQL` `ML Operations`
+
+<br/>
 
 ---
 
@@ -86,8 +88,6 @@ primary_stack = {
     "Languages": ["SQL", "Python", "R"],
     "AI_Integration": ["Gemini", "Snowflake Cortex", "LLM Workflows"]
 }
-```
-
 ### Technologies I Work With
 
 <div align="center">
