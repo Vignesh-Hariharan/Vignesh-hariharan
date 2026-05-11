@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** building production data pipelines, analytics infrastructure, and automation systems. Most recently at **StackAdapt** (Toronto), where I architected end-to-end data solutions from ingestion to insights.
+Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Most recently at **StackAdapt** (Toronto), where I architected end-to-end data solutions from ingestion to insights.
 
 **What I do:**
 - 🔧 Build data pipelines that process millions of rows daily
