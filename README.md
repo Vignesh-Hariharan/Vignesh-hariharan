@@ -52,7 +52,7 @@ Automated delivery of AI-generated reports and visualizations through Slack and 
 
 `Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
 
-### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/Projects/tree/63e4c94e00cd533f1c25c7eb873b689c490b3b8f/attribution-analytics)
+### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/multi-touch-attribution)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
 
 End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels. Processed 200+ conversions from GA4 + synthetic ad data.
@@ -62,7 +62,7 @@ End-to-end attribution pipeline analyzing how different models (first-touch, las
 `Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
 
 
-### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/Projects/tree/main/Fraud_detection_pipeline)
+### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
 
 Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
