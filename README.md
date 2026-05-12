@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Most recently at **StackAdapt** (Toronto), where I architected end-to-end data solutions from ingestion to insights.
+Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working on enterprise platform integration and deployment. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights.
 
 **What I do:**
 - 🔧 Build data pipelines that process millions of rows daily
@@ -26,18 +26,23 @@ Analytics Engineer with **8+ years** experience, including building production d
 
 ## 💼 Recent Experience
 
-**Data Architecture Analyst** @ StackAdapt 
+**Solution Delivery Analyst** @ Instacart
 
-- Engineered production ELT pipelines
-- Automated manual data processes weekly using Kestra/Nomad orchestration
-- Built Python GUI tools for self-service data access
-- Collaborated on Snowflake Cortex ML churn prediction deployment 
+- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS
+- Implementing SSO identity provider integrations and validating end-to-end auth flows
+- Managing cross-system deployment coordination across Terraform-provisioned infrastructure
 
-**Programmatic Analyst (Technical)** @ StackAdapt 
+**Data Architecture Analyst** @ StackAdapt
 
-- Delivered customized performance reports 
-- Built automated reporting pipelines with Python, R, and SQL
-- Created Tableau dashboard templates and visualization frameworks
+- Designed and operated production ELT pipelines on Snowflake, integrating APIs, databases, and event streams
+- Architected end-to-end operational analytics platforms (API → Snowflake → Tableau/ThoughtSpot)
+- Built advanced analytical data models including user/device journeys, audience overlap, and reach/frequency calculations
+
+**Analyst, Programmatic Media** @ StackAdapt
+
+- Built automated reporting pipelines and analytical data models for internal and external stakeholders
+- Developed a Python-based GUI tool enabling self-service data extraction for non-technical users
+- Designed standardized dashboard frameworks in Tableau and ThoughtSpot
 
 ---
 
