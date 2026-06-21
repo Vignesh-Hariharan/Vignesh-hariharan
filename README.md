@@ -51,11 +51,12 @@ Analytics Engineer with **8+ years** experience, including building production d
 ### 1️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2891/2891415.png"/>
 
-Built an event-driven analytics pipeline integrating Salesforce REST API, Snowflake, and Kestra for automated opportunity tracking.
-Processed real-time sales data to generate insights on pipeline health, rep performance, and revenue forecasts.
-Automated delivery of AI-generated reports and visualizations through Slack and Asana API.
+Event-driven reporting pipeline for Salesforce opportunity data. Kestra orchestrates
+batched API extraction into a Snowflake star schema, SQL-derived funnel and forecast
+metrics, chart generation, and delivery to Slack and Asana. Tag-based Asana intake,
+parameterized subflows, failure handling, and CI.
 
-`Kestra` `Python` `Salesforce` `Snowflake` `AI` `Analytics` `Slack` `Asana` `REST API`
+`Kestra` `Python` `Salesforce` `Snowflake` `SQL` `Slack` `Asana` `REST API`
 
 ### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/multi-touch-attribution)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
@@ -89,7 +90,7 @@ primary_stack = {
     "Orchestration": ["Kestra", "Nomad", "Airflow-concepts"],
     "Visualization": ["Tableau", "ThoughtSpot", "Power BI"],
     "Languages": ["SQL", "Python", "R"],
-    "AI_Integration": ["Gemini", "Snowflake Cortex", "LLM Workflows"]
+    "ML_&_Automation": ["Snowflake Cortex", "Kestra", "Pipeline automation"]
 }
 ```
 
