@@ -69,6 +69,8 @@ parameterized subflows, failure handling, and CI.
 
 End-to-end attribution pipeline comparing four models (first-touch, last-touch, linear, position-based) across marketing channels. Processed 200+ conversions from synthetic GA4 + programmatic ad data.
 
+**[View Dashboard on Tableau Public](https://public.tableau.com/views/Multi-TouchAttributionAnalysis/Multi-TouchAttributionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 **Insight:** Last-click attribution significantly undervalues prospecting campaigns
 
 `Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
