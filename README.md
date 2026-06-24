@@ -1,134 +1,53 @@
-# Vignesh Hariharan | Analytics Engineer & Data Architecture 🚀
+# Vignesh Hariharan
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-vignesh/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vignesh.hariharan4351/vizzes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vignesh-Hariharan)
+Analytics engineer and data analyst based in Toronto. I build pipelines from ingestion through modeling to delivery — mostly Snowflake, dbt, Python, and SQL. Currently contracting at Instacart on platform integration; previously at StackAdapt on programmatic media analytics and data architecture.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/h-vignesh/) · [Tableau Public](https://public.tableau.com/app/profile/vignesh.hariharan4351/vizzes) · [Email](mailto:vigneshhariharan1992@gmail.com)
 
-## 👋 About Me
+## Experience
 
-Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working on enterprise platform integration and deployment. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights.
+**Solution Delivery Analyst (Contract)** — Instacart via Apex Systems, Feb 2026–Present
 
-**What I do:**
-- 🔧 Build data pipelines that process millions of rows daily
-- 📊 Transform raw data into actionable insights using dbt + Snowflake
-- 🤖 Automate workflows that eliminate manual processes
-- 📈 Create self-service analytics tools for cross-functional teams
+- Enterprise white-label e-commerce deployments across GCP, Firebase, and AWS
+- SSO / identity provider integrations and end-to-end auth validation
+- Cross-system deployment coordination on Terraform-provisioned infrastructure
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
+**Data Architecture Analyst** — StackAdapt, Jun 2022–Oct 2025
 
----
+- Production ELT on Snowflake: APIs, databases, event streams
+- Operational analytics platforms (API → Snowflake → Tableau / ThoughtSpot)
+- Journey, audience overlap, and reach/frequency data models
 
-## 💼 Recent Experience
+**Analyst, Programmatic Media** — StackAdapt
 
-**Solution Delivery Analyst** @ Instacart
+- Automated reporting pipelines and analytical models for internal and client teams
+- Python GUI for self-service data extraction by non-technical users
+- Standardized dashboard frameworks in Tableau and ThoughtSpot
 
-- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS
-- Implementing SSO identity provider integrations and validating end-to-end auth flows
-- Managing cross-system deployment coordination across Terraform-provisioned infrastructure
+**Senior Catalog Specialist / Catalog Associate** — Amazon, Feb 2016–Nov 2020
 
-**Data Architecture Analyst** @ StackAdapt
+## Projects
 
-- Designed and operated production ELT pipelines on Snowflake, integrating APIs, databases, and event streams
-- Architected end-to-end operational analytics platforms (API → Snowflake → Tableau/ThoughtSpot)
-- Built advanced analytical data models including user/device journeys, audience overlap, and reach/frequency calculations
+### [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
 
-**Analyst, Programmatic Media** @ StackAdapt
+Event-driven reporting for Salesforce opportunities. Kestra orchestrates batched API extraction into Snowflake, dbt builds funnel and forecast marts, matplotlib renders charts, and results go to Slack and Asana. Parameterized subflows, scheduled polling, failure handling, CI.
 
-- Built automated reporting pipelines and analytical data models for internal and external stakeholders
-- Developed a Python-based GUI tool enabling self-service data extraction for non-technical users
-- Designed standardized dashboard frameworks in Tableau and ThoughtSpot
+`Kestra` `Python` `Salesforce` `Snowflake` `dbt` `SQL`
 
----
+### [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/multi-touch-attribution)
 
-## 🚀 Featured Portfolio Projects
+End-to-end attribution pipeline on synthetic GA4 and ad data (~28K events, 220 conversions). Four models — first touch, last touch, linear, position-based — compared in Snowflake/dbt with a Tableau consumption layer.
 
-### 1️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
-<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2891/2891415.png"/>
+Last-click undervalues prospecting display by ~190% vs position-based among paid-touch conversions.
 
-Event-driven reporting pipeline for Salesforce opportunity data. Kestra orchestrates
-batched API extraction into a Snowflake star schema, SQL-derived funnel and forecast
-metrics, chart generation, and delivery to Slack and Asana. Tag-based Asana intake,
-parameterized subflows, failure handling, and CI.
+`Snowflake` `dbt` `Python` `Tableau` `GA4`
 
-`Kestra` `Python` `Salesforce` `Snowflake` `SQL` `Slack` `Asana` `REST API`
+### [Fraud Detection Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
 
-### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/multi-touch-attribution)
-<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
+1.3M credit card transactions through Snowflake and dbt feature engineering (15 features), Snowflake Cortex ML classification, and Slack alerting. Four incremental experiments: the 6-feature baseline outperformed the 15-feature full model on precision/recall for this dataset.
 
-End-to-end attribution pipeline analyzing how different models (first-touch, last-touch, linear, time-decay, U-shaped) value marketing channels. Processed 200+ conversions from GA4 + synthetic ad data.
+`Snowflake` `dbt` `Python` `Cortex ML`
 
-**Insight:** Last-click attribution significantly undervalues prospecting campaigns
+## Stack
 
-`Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
-
-
-### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
-<img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
-
-Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
-
-**Key Finding:** Simpler models (6 features) outperformed complex ones (18 features)
-
-`Snowflake` `dbt` `Python` `SQL` `ML Operations`
-
-
----
-
-## 🛠️ Tech Stack
-
-### Core Skills
-```python
-primary_stack = {
-    "Data_Warehouse": ["Snowflake", "BigQuery", "Redshift"],
-    "Transformation": ["dbt", "SQL", "Python"],
-    "Orchestration": ["Kestra", "Nomad", "Airflow-concepts"],
-    "Visualization": ["Tableau", "ThoughtSpot", "Power BI"],
-    "Languages": ["SQL", "Python", "R"],
-    "ML_&_Automation": ["Snowflake Cortex", "Kestra", "Pipeline automation"]
-}
-```
-
-### Technologies I Work With
-
-<div align="center">
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshhariharan1992@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-vignesh/)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vignesh.hariharan4351/vizzes)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Turning messy data into clean insights, one pipeline at a time"
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-
-⭐️ [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
-
-</div>
+Snowflake · dbt · SQL · Python · Kestra · Tableau · ThoughtSpot · Power BI
