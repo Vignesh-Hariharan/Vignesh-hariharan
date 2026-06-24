@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working on enterprise platform integration and deployment. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights.
+Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working on enterprise platform integration and deployment. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
 
 **What I do:**
 - 🔧 Build data pipelines that process millions of rows daily
@@ -43,6 +43,12 @@ Analytics Engineer with **8+ years** experience, including building production d
 - Built automated reporting pipelines and analytical data models for internal and external stakeholders
 - Developed a Python-based GUI tool enabling self-service data extraction for non-technical users
 - Designed standardized dashboard frameworks in Tableau and ThoughtSpot
+
+**Senior Catalog Specialist** @ Amazon
+
+- Built Python automation for product categorization using keyword matching and business rules; classified 40,000+ products and freed 7 FTE annually (official company metric)
+- Led quality audits for 35 FTEs; generated monthly scorecards and defect reporting across 10 product lines
+- Trained 32 team members; recognized with "First Among Equals" and "Einstein Award"
 
 ---
 
