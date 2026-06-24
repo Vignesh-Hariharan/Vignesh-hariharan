@@ -1,4 +1,4 @@
-# Vignesh Hariharan | Analytics Engineer & Data Architecture 🚀
+# Vignesh Hariharan | Analytics Engineer / BI Developer | Snowflake · dbt · Python · Tableau
 
 <div align="center">
   
@@ -30,7 +30,7 @@ Analytics Engineer with **8+ years** experience, including building production d
 
 - Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS
 - Implementing SSO identity provider integrations and validating end-to-end auth flows
-- Managing cross-system deployment coordination across Terraform-provisioned infrastructure
+- Supporting cross-system deployment coordination across GCP, Firebase, and AWS environments, working with Solution Architecture and platform engineering teams
 
 **Data Architecture Analyst** @ StackAdapt
 
