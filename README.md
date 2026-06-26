@@ -10,17 +10,15 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** experience, including building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working on enterprise platform integration and deployment. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
+Analytics Engineer with **8+ years** experience building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working alongside Solution Architecture and platform engineering teams on enterprise integrations — deepening my exposure to cloud infrastructure (GCP, Firebase, AWS) while continuing to build analytics engineering projects. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
 
 **What I do:**
-- 🔧 Build data pipelines that process millions of rows daily
+- 🔧 Build and operate production ELT pipelines — at StackAdapt, handling tens of millions of events daily across Snowflake
 - 📊 Transform raw data into actionable insights using dbt + Snowflake
-- 🤖 Automate workflows that eliminate manual processes
-- 📈 Create self-service analytics tools for cross-functional teams
+- 🤖 Automate reporting and alerting workflows that replace manual processes
+- 📈 Design self-service analytics tools used by cross-functional teams
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
+> Portfolio projects use public datasets (Kaggle) and synthetic data due to confidentiality. Production-scale work is reflected in the experience section above.
 
 ---
 
@@ -28,9 +26,9 @@ Analytics Engineer with **8+ years** experience, including building production d
 
 **Solution Delivery Analyst** @ Instacart
 
-- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS
+- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS — developing hands-on cloud infrastructure exposure that complements my data engineering background
 - Implementing SSO identity provider integrations and validating end-to-end auth flows
-- Supporting cross-system deployment coordination across GCP, Firebase, and AWS environments, working with Solution Architecture and platform engineering teams
+- Collaborating with Solution Architecture and platform engineering teams on cross-system deployment coordination
 
 **Data Architecture Analyst** @ StackAdapt
 
@@ -95,7 +93,7 @@ Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. 
 primary_stack = {
     "Data_Warehouse": ["Snowflake", "BigQuery", "Redshift"],
     "Transformation": ["dbt", "SQL", "Python"],
-    "Orchestration": ["Kestra", "Nomad", "Airflow-concepts"],
+    "Orchestration": ["Kestra", "Nomad", "Airflow"],
     "Visualization": ["Tableau", "ThoughtSpot", "Power BI"],
     "Languages": ["SQL", "Python", "R"],
     "ML_&_Automation": ["Snowflake Cortex", "Kestra", "Pipeline automation"]
@@ -134,8 +132,6 @@ primary_stack = {
 <div align="center">
   
 ### 💡 "Turning messy data into clean insights, one pipeline at a time"
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 ⭐️ [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
 
