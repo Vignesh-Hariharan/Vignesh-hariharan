@@ -65,13 +65,13 @@ parameterized subflows, failure handling, and CI.
 ### 2️⃣ [Multi-Touch Attribution Analytics](https://github.com/Vignesh-Hariharan/multi-touch-attribution)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/1632/1632670.png"/>
 
-End-to-end attribution pipeline comparing four models (first-touch, last-touch, linear, position-based) across marketing channels. Processed 200+ conversions from synthetic GA4 + programmatic ad data.
+End-to-end attribution pipeline comparing four models (first-touch, last-touch, linear, position-based) across marketing channels. Built on synthetic GA4-schema event data and programmatic ad impressions.
 
 **[View Dashboard on Tableau Public](https://public.tableau.com/views/Multi-TouchAttributionAnalysis/Multi-TouchAttributionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Insight:** Last-click attribution significantly undervalues prospecting campaigns
 
-`Snowflake` `dbt` `Tableau` `GA4` `Marketing Analytics`
+`Snowflake` `dbt` `Tableau` `Marketing Analytics` `Python`
 
 
 ### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
