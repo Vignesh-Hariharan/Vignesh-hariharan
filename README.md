@@ -129,10 +129,3 @@ primary_stack = {
 
 ---
 
-<div align="center">
-  
-### 💡 "Turning messy data into clean insights, one pipeline at a time"
-
-⭐️ [Vignesh-Hariharan](https://github.com/Vignesh-Hariharan)
-
-</div>
