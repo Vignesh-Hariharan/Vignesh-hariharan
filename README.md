@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** experience building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working alongside Solution Architecture and platform engineering teams on enterprise integrations — deepening my exposure to cloud infrastructure (GCP, Firebase, AWS) while continuing to build analytics engineering projects. Previously at **StackAdapt**, where I architected end-to-end data solutions from ingestion to insights. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
+Analytics Engineer with **8+ years** experience building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working with Solution Architecture and platform engineering on enterprise integrations (GCP, Firebase, AWS). Previously at **StackAdapt**, building Snowflake pipelines and reporting. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
 
 **What I do:**
-- 🔧 Build and operate production ELT pipelines — at StackAdapt, handling tens of millions of events daily across Snowflake
-- 📊 Transform raw data into actionable insights using dbt + Snowflake
+- 🔧 Build and operate production ELT pipelines at StackAdapt, handling tens of millions of events daily across Snowflake
+- 📊 Transform raw data with dbt + Snowflake
 - 🤖 Automate reporting and alerting workflows that replace manual processes
 - 📈 Design self-service analytics tools used by cross-functional teams
 
@@ -26,7 +26,7 @@ Analytics Engineer with **8+ years** experience building production data pipelin
 
 **Solution Delivery Analyst** @ Instacart
 
-- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS — developing hands-on cloud infrastructure exposure that complements my data engineering background
+- Deploying and configuring enterprise white-label e-commerce platforms across GCP, Firebase, and AWS
 - Implementing SSO identity provider integrations and validating end-to-end auth flows
 - Collaborating with Solution Architecture and platform engineering teams on cross-system deployment coordination
 
@@ -69,7 +69,7 @@ End-to-end attribution pipeline comparing four models (first-touch, last-touch, 
 
 **[View Dashboard on Tableau Public](https://public.tableau.com/views/Multi-TouchAttributionAnalysis/Multi-TouchAttributionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**Insight:** Last-click attribution significantly undervalues prospecting campaigns
+**Dashboard:** last-click vs position-based on synthetic data (seed 42)
 
 `Snowflake` `dbt` `Tableau` `Marketing Analytics` `Python`
 
@@ -77,9 +77,9 @@ End-to-end attribution pipeline comparing four models (first-touch, last-touch, 
 ### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
 
-Built end-to-end fraud detection pipeline using **Snowflake, dbt, and Python**. Loaded 1.3M transactions, engineered 15 features, and automated predictions with Snowflake Cortex ML.
+Fraud pipeline using **Snowflake, dbt, and Python** on Sparkov transactions. Cortex ML, plus a V2 run that rebuilds leaked features point-in-time.
 
-**Key Finding:** Simpler models (6 features) outperformed the full 15-feature model on this dataset
+**Key Finding:** The 15-feature model lost because of leakage (full-dataset aggregates, a label-derived merchant rate, ID columns), not because "simpler is better"
 
 `Snowflake` `dbt` `Python` `SQL` `ML Operations`
 
