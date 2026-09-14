@@ -10,10 +10,10 @@
 
 ## 👋 About Me
 
-Analytics Engineer with **8+ years** experience building production data pipelines, analytics infrastructure, and automation systems. Currently at **Instacart** (Toronto), working with Solution Architecture and platform engineering on enterprise integrations (GCP, Firebase, AWS). Previously at **StackAdapt**, building Snowflake pipelines and reporting. Earlier at **Amazon**, on catalog operations, quality analytics, and Python automation.
+Analytics engineer with **3+ years** building production data pipelines and analytics products (Snowflake, dbt, Python), and **8+ years** in data-intensive roles. Currently at **Instacart** (Toronto), working with Solution Architecture and platform engineering on enterprise integrations (GCP, Firebase, AWS). Previously at **StackAdapt**, Snowflake pipelines and reporting. Earlier at **Amazon**, catalog operations, quality analytics, and Python automation.
 
 **What I do:**
-- 🔧 Build and operate production ELT pipelines at StackAdapt, handling tens of millions of events daily across Snowflake
+- 🔧 Built and operated production ELT pipelines at StackAdapt, handling tens of millions of events daily across Snowflake
 - 📊 Transform raw data with dbt + Snowflake
 - 🤖 Automate reporting and alerting workflows that replace manual processes
 - 📈 Design self-service analytics tools used by cross-functional teams
