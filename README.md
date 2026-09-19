@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-Analytics engineer with **3+ years** building production data pipelines and analytics products (Snowflake, dbt, Python), and **8+ years** in data-intensive roles. Currently at **Instacart** (Toronto), working with Solution Architecture and platform engineering on enterprise integrations (GCP, Firebase, AWS). Previously at **StackAdapt**, Snowflake pipelines and reporting. Earlier at **Amazon**, catalog operations, quality analytics, and Python automation.
+Analytics engineer with **3+ years** building production data pipelines on Snowflake, and **8+ years** in data-intensive roles. Currently at **Instacart** (Toronto), working with Solution Architecture and platform engineering on enterprise integrations (GCP, Firebase, AWS). Previously at **StackAdapt**, Snowflake pipelines and reporting. Earlier at **Amazon**, catalog operations, quality analytics, and Python automation.
 
 **What I do:**
-- 🔧 Built and operated production ELT pipelines at StackAdapt, handling tens of millions of events daily across Snowflake
-- 📊 Transform raw data with dbt + Snowflake
+- 🔧 Built and operated 80+ production ELT pipelines at StackAdapt across Snowflake, Redshift, and MySQL
+- 📊 Snowflake modelling and dbt on portfolio projects; production ELT at StackAdapt was Python
 - 🤖 Automate reporting and alerting workflows that replace manual processes
 - 📈 Design self-service analytics tools used by cross-functional teams
 
@@ -77,9 +77,7 @@ End-to-end attribution pipeline comparing four models (first-touch, last-touch, 
 ### 3️⃣ [Fraud Detection Data Pipeline](https://github.com/Vignesh-Hariharan/fraud-detection-pipeline)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2058/2058768.png"/>
 
-Fraud pipeline using **Snowflake, dbt, and Python** on Sparkov transactions. Cortex ML, plus a V2 run that rebuilds leaked features point-in-time.
-
-**Key Finding:** The 15-feature model lost because of leakage (full-dataset aggregates, a label-derived merchant rate, ID columns), not because "simpler is better"
+dbt + Snowflake Cortex on Sparkov transactions. Three leakage bugs (full-dataset aggregates, a label-derived merchant rate, ID columns); V2 rebuilds those features point-in-time.
 
 `Snowflake` `dbt` `Python` `SQL` `ML Operations`
 
@@ -93,7 +91,7 @@ Fraud pipeline using **Snowflake, dbt, and Python** on Sparkov transactions. Cor
 primary_stack = {
     "Data_Warehouse": ["Snowflake", "BigQuery", "Redshift"],
     "Transformation": ["dbt", "SQL", "Python"],
-    "Orchestration": ["Kestra", "Nomad", "Airflow"],
+    "Orchestration": ["Kestra", "Nomad"],
     "Visualization": ["Tableau", "ThoughtSpot", "Power BI"],
     "Languages": ["SQL", "Python", "R"],
     "ML_&_Automation": ["Snowflake Cortex", "Kestra", "Pipeline automation"]
