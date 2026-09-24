@@ -55,10 +55,10 @@ Analytics engineer with **3+ years** building production data pipelines on Snowf
 ### 1️⃣ [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
 <img align="right" width="100" src="https://cdn-icons-png.flaticon.com/512/2891/2891415.png"/>
 
-Event-driven reporting pipeline for Salesforce opportunity data. Kestra orchestrates
-batched API extraction into a Snowflake star schema, SQL-derived funnel and forecast
-metrics, chart generation, and delivery to Slack and Asana. Tag-based Asana intake,
-parameterized subflows, failure handling, and CI.
+Request-driven reporting pipeline for Salesforce opportunity data. Tagging an Asana
+task queues a run; a 6-hourly Kestra poller picks it up. Batched API extraction into
+a Snowflake star schema, SQL-derived funnel and forecast metrics, chart generation,
+and delivery to Slack and Asana. Parameterized subflows, failure handling, and CI.
 
 `Kestra` `Python` `Salesforce` `Snowflake` `SQL` `Slack` `Asana` `REST API`
 
@@ -69,7 +69,7 @@ End-to-end attribution pipeline comparing four models (first-touch, last-touch, 
 
 **[View Dashboard on Tableau Public](https://public.tableau.com/views/Multi-TouchAttributionAnalysis/Multi-TouchAttributionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**Dashboard:** last-click vs position-based on synthetic data (seed 42)
+**Dashboard:** last-touch vs position-based on synthetic data (seed 42)
 
 `Snowflake` `dbt` `Tableau` `Marketing Analytics` `Python`
 
